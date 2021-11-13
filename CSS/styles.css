@@ -1,0 +1,179 @@
+/*le tête de page*/
+	header div.media{
+		padding: 20px 20px;
+		display: inline-block;	
+		transition: 0.3s
+		width: 50px;
+		height: 50px;
+	}
+	header div.media{
+		padding-left: 600px;
+	}
+
+	header div.fullscreen-bg video{
+	    position: fixed;
+	    top: 0;
+	    right: 0;
+	    bottom: 0;
+	    left: 0;
+	    overflow: hidden;
+	    z-index: -1;
+	    margin: 0px;
+	}
+
+	.fullscreen-bg__video{
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    height: auto;
+	}
+
+	body header img{
+		padding-left: -1px; 
+	}
+
+	body header p{
+	    font-size: 50px;
+	    font-family: times new roman; 
+	    padding-left: 100px;
+	    text-align: center;
+	}
+
+	ul li.bern{
+		display: inline-block;
+		list-style-type: none;
+		padding-left: 180px;
+	}
+	ul li.bern a{
+		color: black;
+		font-size: 30px;
+		font-family: Times New Roman;
+		text-decoration: none;
+		background-color: #2BE9EA;
+	}
+	ul li.bern:hover a{
+		text-decoration: none;
+		background-color: #ffffff;
+		transition: 0.3s;
+		padding: 6px;
+	}
+
+	p.welcome{
+		color: #ffffff;
+		text-align: center;
+		font-size: 20px;
+	}
+	p.welcome:hover{
+		color: #05F4CC;
+		transition: 0.3s;
+	}
+
+	body h1.headline{
+		font-size: 110px;
+		font-family: times new roman;
+		color: #05F4CC;
+		text-align: center;
+		font-weight: bold;
+		padding-left:150px;
+		padding-left: 27px
+	}
+
+	body{
+		background-color: transparent;
+		color: white;
+	}
+
+	/*le balise div*/
+	div.leftbox h2{
+		text-align: center;
+		font-family: times new roman;
+	}
+
+	div.leftbox p{
+		color: #ffffff;
+		background-color: #2BA4EA;
+		font-size: 12px;
+		padding: 25px;
+		width: 200px;
+		text-align: center;
+		font-family: times new roman;
+	}
+	div.leftbox img{
+		border-radius: 50%;
+		padding-left: 70px;
+	}
+	div.leftbox h3{
+		padding-left: 150px;
+	}
+	div.leftbox h1{
+		text-align: center;
+		color: #ffffff;
+		font-family: times new roman;
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	div.leftbox:hover p{
+		background-color: #2C3E50;
+		transition: 0.3s;
+	}
+	div#content{
+		background-color: transparent;
+		padding: 5px;
+	}
+	div#content div{
+		display: inline-block;
+		width: 49.5%;
+	}
+	div#content div.leftbox{
+		background-color: #2B44EA;
+		vertical-align: top;
+		padding-bottom: 100px;
+	}
+	div#content div h1, p, iframe{
+		margin: 35px;
+		letter-spacing: 1.5px;
+	}
+	div#content div.rightbox{
+		background-color: #2BA4EA;
+		padding-bottom: 60px;
+	} 
+	div.rightbox h1{
+		font-size: 26px;
+		color: #ffffff;
+		text-align: center;
+		font-family: times new roman;
+	}
+	div.rightbox h2{
+		font-size: 16px;
+		color: #000000;
+		text-align: justify;
+		font-family: times new roman;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-top: 0px;
+	}
+	div.rightbox h3{
+		font-size: 18px;
+		color: #ffffff;
+		text-align: justify;
+		font-family: times new roman;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-top: 0px;
+	}
+	div.rightbox h4{
+		font-size: 19px;
+		color: #000000;
+		text-align: center;
+		font-family: times new roman;
+		padding-top: 0px;
+	}
+
+	/*le pied de page*/
+	footer{
+		background-color: #F8C006;
+		font-family: times new roman;
+		text-align: center;
+	}
+
