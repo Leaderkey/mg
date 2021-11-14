@@ -99,7 +99,7 @@
 	div.leftbox p{
 		color: #ffffff;
 		background-color: #2BA4EA;
-		font-size: 15px;
+		font-size: 12px;
 		padding: 25px;
 		width: 200px;
 		text-align: center;
@@ -146,13 +146,13 @@
 		background-color: #2B44EA;
 	} 
 	div.rightbox h1{
-		font-size: 26px;
+		font-size: 20px;
 		color: #ffffff;
 		text-align: center;
 		font-family: times new roman;
 	}
 	div.rightbox h2{
-		font-size: 16px;
+		font-size: 14px;
 		color: #000000;
 		text-align: justify;
 		font-family: times new roman;
@@ -161,7 +161,7 @@
 		padding-top: 0px;
 	}
 	div.rightbox h3{
-		font-size: 18px;
+		font-size: 16px;
 		color: #ffffff;
 		text-align: justify;
 		font-family: times new roman;
@@ -170,7 +170,7 @@
 		padding-top: 0px;
 	}
 	div.rightbox h4{
-		font-size: 19px;
+		font-size: 17px;
 		color: #000000;
 		text-align: center;
 		font-family: times new roman;
@@ -179,7 +179,7 @@
 
 	/*le pied de page*/
 	footer{
-		background-color:  #A2D9CE;
+		background-color:  #000806;
 		width: 100%;
 		padding: 50px;
 		font-family: times new roman;
