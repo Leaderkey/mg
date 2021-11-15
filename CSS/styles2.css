@@ -52,7 +52,7 @@
 		padding-left: 180px;
 	}
 	ul li.bern a{
-		color: #000000;
+		color: #ffffff;
 		font-size: 30px;
 		font-family: Times New Roman;
 		text-decoration: none;
@@ -60,6 +60,7 @@
 	}
 	ul li.bern:hover a{
 		text-decoration: none;
+		color: #000000;
 		background-color: #ffffff;
 		transition: 0.3s;
 		padding: 6px;
